@@ -1,7 +1,9 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алёна](https://up.htmlacademy.ru/javascript/19/user/1335287).
-* Наставник: Сергей Рожков.
+
+* Наставник:  [Сергей Рожков] (https://htmlacademy.ru/profile/id1069033).
+
 
 ---
 
