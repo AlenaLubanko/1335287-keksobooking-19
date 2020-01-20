@@ -2,7 +2,7 @@
 
 * Студент: [Алёна](https://up.htmlacademy.ru/javascript/19/user/1335287).
 
-* Наставник:  [Сергей Рожков] (https://htmlacademy.ru/profile/id1069033).
+* Наставник:  [Сергей Рожков](https://htmlacademy.ru/profile/id1069033).
 
 
 ---
